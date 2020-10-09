@@ -25,7 +25,7 @@ SECRET_KEY = 'v1g+34#$(&6n@2=i9s+1g7-63)7t^5wc%10#cn0)z@4*t!fo@z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['meetup-env.eba-ynfrzqwv.ap-southeast-1.elasticbeanstalk.com']
 
 
 # Application definition
